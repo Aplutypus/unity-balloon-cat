@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/BallonCat/1_Codes/Scenes/0_MainMenu.unity
+    guid: 9b7a50761878cd343b56442c1b26147a
+  - enabled: 1
+    path: Assets/BallonCat/1_Codes/Scenes/1_Level_CatVillage.unity
+    guid: 7f7ebd2fc2dc8bf4b884e1f9fa6749b9
+  - enabled: 1
+    path: Assets/BallonCat/1_Codes/Scenes/2_Level_WaterFall.unity
+    guid: c2852839bc19f0c44971bc59ef1da070
+  - enabled: 1
+    path: Assets/BallonCat/1_Codes/Scenes/3_Level_Swamp.unity
+    guid: 44fe737dddb68f645a64c78382119a47
+  - enabled: 1
+    path: Assets/BallonCat/1_Codes/Scenes/4_Level_Forest.unity
+    guid: 2d73c93ecb5ee5d47a0e3fe3a685f4af
+  - enabled: 1
+    path: Assets/BallonCat/1_Codes/Scenes/5_Level_Planice.unity
+    guid: ee6afc27c64d5824d9dacf180f971833
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a68cebd88f270ea429daf01906aa805a, type: 2}
